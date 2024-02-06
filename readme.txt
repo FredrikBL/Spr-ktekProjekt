@@ -1,4 +1,7 @@
-﻿Om samlingen Svenska partiprogram och valmanifest
+Classification project done as part of the course Language Technology DD1418 KTH. Classifies given text to one of the eight Swedish parties currently in parliament.
+
+About the data:
+Om samlingen Svenska partiprogram och valmanifest
 
 Citering:
 Göteborgs universitet, Svensk nationell datatjänst (2021). Svenska partiprogram och valmanifest. Svensk nationell datatjänst. Version 2. https://doi.org/10.5878/8az5-zd46
